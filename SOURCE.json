@@ -1,0 +1,16 @@
+{
+  "source_repository": "https://github.com/justgook/gamectl",
+  "source_base_revision": "01bbfb1cb07bca898b86e7127cf433d2d23aaf7e",
+  "snapshot_kind": "working-tree source snapshot; no history rewritten",
+  "source_worktree_status": [],
+  "repository": "ui-service.popup",
+  "files_sha256": {
+    ".github/workflows/verify.yml": "f4f1f1920aa0ec16710e8cc5c6b196ff69cbe5d0fcb4bdf8c8566e949831178f",
+    "CONTEXT.md": "31d17e70418c994d07b0117f0f5a924447e4fb6aa59a3ae2e430684e75e0ed29",
+    "LICENSING.md": "0bddd694c9d8b704519bf4b02a97cb8e0896867f1e102c3b6849c9088eb1f830",
+    "README.md": "c7925391095c256948976aca26b2d3d76877033779f9a8058b833c6cd61ad51f",
+    "package.json": "ba9cc5d38d3c5664541bd2f3ce5326c8721bd2595029d88b3bb924769b214bf8",
+    "scripts/verify.mjs": "518a791dea74a9822d92a3a751ca3b4af379550f5d6588fab943efd02ff10cf6",
+    "src/ui-plugins/popup.js": "93eb1b9fe6e7b41c743b82f138584d945976837fbd57ade27dc5fd5f0c9b03ea"
+  }
+}
