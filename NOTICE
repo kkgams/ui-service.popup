@@ -8,5 +8,3 @@ No npm dependencies are vendored. Absolute /core/, /util/, /widgets/ libraries
 are supplied separately by the Host and excluded from this ZIP. Textual icon
 ligatures and system font-family names do not bundle icon/font files.
 Sibling Project Units and their licensing remain separate.
-
-NOTICE-EVIDENCE.json SHA-256: 5c55e20bc24121947338c73c7702608d4c92aaf59145bc1926501162825aa88b
