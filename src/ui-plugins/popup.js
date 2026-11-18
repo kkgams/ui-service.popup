@@ -285,7 +285,9 @@ export class PopupManager extends HTMLElement {
      */
     closeAllPopups() {
         const popups = this.querySelectorAll("view-popup")
-        popups.forEach((popup) => popup.close())
+        popups.forEach((popup) => {
+            popup.close()
+        })
     }
 
     /**
@@ -382,7 +384,7 @@ export class ViewPopup extends HTMLElement {
         })
     }
 
-    attributeChangedCallback(name, oldVal, newVal) {
+    attributeChangedCallback(name, _oldVal, _newVal) {
         if (name === "size" && this.isConnected) {
             this._updateSizeClass()
         }
